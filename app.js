@@ -45,3 +45,24 @@
 // }
 // objectMethod.myfunc(10,100)
 
+// Difference Between Synchronous And Asynchronous
+
+// Synchronous Example
+// console.log("bacha tayaar hai")
+// var myfunc = (function() {
+//     alert("bacha nikal gaya")
+// })
+// myfunc()
+// console.log("bacha pohoch gaya")
+
+
+
+// Asynchronous Example
+
+// console.log("bacha ghar se nikal gaya");
+
+// setTimeout(function(){
+//     console.log("bacha pohonch gaya")
+// },2000);
+
+// console.log("bacha bus me beth gaya");
