@@ -98,9 +98,28 @@
 //     this.name = naam,
 //     this.age = umer,
 //     this.class = clas
-    
+
 //     console.log(`Hello ${this.name} your age is ${this.age} and your class is ${this.class}`)
 
 // }
 // Students("ali",12,8)
 
+// var Detail = function (name, umer, clas) {
+//     this.Name = name
+//     this.Age = umer
+//     this.class = clas
+
+//     // console.log(`Hello My Name is ${this.name} and My age is ${this.Age} and My class is ${this.class}`)
+// }
+// Detail("ali", 15, "9th")
+// var stu1 = new Detail("bilal",18, 12)
+// console.log(stu1.class)
+
+// var num = [1,2,3,4,5,6,7,8,9,10]
+// var text= "";
+// num.forEach(myFunc)
+// // document.getElementById("demo").innerHTML = text
+// document.getElementById("demo") = text
+// function myFunc (value){
+//     text += value + "<br>"
+// }
