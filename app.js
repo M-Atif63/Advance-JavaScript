@@ -123,3 +123,125 @@
 // function myFunc (value){
 //     text += value + "<br>"
 // }
+
+
+// var names = ["bilal", "ali", "hamid", "saad", "asad"]
+
+// var text = "";
+
+// names.forEach(space)
+
+// document.getElementById("demo").innerHTML = text;
+
+// function space(space) {
+//     text += space +"<br>";
+// }
+
+// // var students = ["asad","saad","ali","bilal"]
+
+// var studentsFather = ["Muhammed","Ahmed","Faizan","Liaqat"]
+
+// // var fullNameOfStu = studentsFather + students
+
+// space = "";
+
+// studentsFather.forEach(action)
+
+// document.getElementById("demo").innerHTML = space;
+
+// function action (value) {
+//     space += value + "<br>";
+// }
+
+// var calculation = [2 * 2, 2 + 5, 5 - 2, 1 * 10]
+
+// gap = "";
+
+// calculation.forEach(result)
+
+// document.getElementById("demo").innerHTML = gap
+
+// function result (value) {
+//     gap += value + "<br>"
+// }
+
+
+
+// const numbers1 = [45, 4, 9, 16, 25];
+// const numbers2 = numbers1.map(myFunction);
+
+// document.getElementById("demo").innerHTML = JSON.stringify(numbers2);
+
+// function myFunction(value) {
+//   return value ;
+// }
+
+
+// var num1 = [1,12,15,25,26]
+// var num2 = num1.map(action)
+
+// document.getElementById("demo").innerHTML = JSON.stringify(num2)
+
+// function action (value) {
+//     console.log(value)
+//     return value * 3;
+// }
+
+// function output (some) {
+//     document.getElementById("demo").innerHTML = some
+// }
+
+// function input (num1,num2) {
+//     var adding = num1 + num2;
+//     return adding
+// }
+
+// var result = input(12,12)
+
+// output(result)
+
+// var num = [1, 12, 15, 25, 26]
+// var num1 = num.map(action)
+
+// document.getElementById("demo").innerHTML = JSON.stringify(num1)
+
+// function action(value) {
+//     return value * 2
+// }
+
+
+// function output (some) {
+//     document.getElementById("demo").innerHTML = some;
+// }
+// function input (num1,num2,callback) {
+//     var addition = num1 + num2;
+//     callback(addition)
+// }
+// input(12,12,output)
+
+// setTimeout(action,2000)
+// function action () {
+//     var message = "Hello"
+//     document.getElementById("demo").innerText = message;
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
