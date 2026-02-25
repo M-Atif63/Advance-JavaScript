@@ -66,3 +66,41 @@
 // },2000);
 
 // console.log("bacha bus me beth gaya");
+
+
+
+// function result(name,callback) {
+//     console.log("Hello" + name)
+//     callback(3000)
+// }
+// function total() {
+//     console.log("main callback function hu")
+// }
+// result("ali",total)
+
+
+// function MyFunc(name, id) {
+//     console.log(`Hello ${name} Your id is ${id}`)
+// }
+// MyFunc("ahmed",123)
+// var stu1 = new MyFunc("ali", 786)
+
+// function Stu (name,id) {
+//     this.naam:name
+//     rollNum:id
+// }
+// Stu("ahmed",123)
+// var stu1 = new Stu ("ali",786)
+// console.log(Stu(stu1.naam))
+
+
+// function Students (naam,umer,clas){
+//     this.name = naam,
+//     this.age = umer,
+//     this.class = clas
+    
+//     console.log(`Hello ${this.name} your age is ${this.age} and your class is ${this.class}`)
+
+// }
+// Students("ali",12,8)
+
