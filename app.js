@@ -227,6 +227,63 @@
 
 
 
+// Bind()
+// var banda1 = {
+//     naam:"ali",
+//     age:"19",
+//     detail:function(city){
+//         console.log(`Hi Mera naam ${this.naam} hai me ${city} me rehta hu`)
+//     }
+// }
+// banda1.detail("lahore")
+// var banda2 = {
+//     naam:"bilal"
+// }
+
+// banda1.detail.call(banda2,"karachi")
+
+
+// // Apply()
+// var student1 = {
+//     naam:"ali",
+//     detail:function(clas,age,city){
+//         console.log(`Hi mera Naam ${this.naam} hai our me ${city} se hu our meri Umer ${age} hai our me ${clas} me hu`)
+//     }
+// }
+// var student2 = {
+//     naam:"bilal"
+// }
+// student1.detail.apply(student2,[10,18,"karachi"])
+
+
+
+// Bind()
+// var students = {
+//     naam:"ali",
+//     age:20,
+//     detail:function(){
+//         return this.naam
+//     }
+// }
+// var checkName = students.detail()
+// // console.log(checkName())
+
+// console.log(savedName())
+// var savedName = students.detail.bind(students)
+
+
+// Bind()
+// var student1 = {
+//     naam:"bilal",
+//     detail:function(){
+//         return this.naam
+//     }
+// }
+// var showDetail = student1.detail()
+
+// var savedDetails = student1.detail.bind(student1)
+// console.log(savedDetails())
+
 
 
 
